@@ -2,5 +2,5 @@
 
 document.addEventListener("DOMContentLoaded",function(){
   let el = document.getElementById("text");
-  el.textContent= 
+  el.textContent= "This is really cool!",
 })
